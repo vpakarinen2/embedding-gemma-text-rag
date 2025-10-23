@@ -1,4 +1,4 @@
-dataset = [
+example_data = [
     {"topic": "Climate Change", "text": "Climate change impacts weather patterns globally."},
     {"topic": "Artificial Intelligence", "text": "AI is transforming industries through automation."},
     {"topic": "Space Exploration", "text": "Space missions aim to explore Mars and beyond."},
